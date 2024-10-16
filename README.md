@@ -174,6 +174,7 @@ ORDER BY
     demand_count DESC,
     avg_salary DESC;
 ```
+
 | Skill ID | Skills  | Demand Count | Average Salary (USD) |
 |:---:|---|:---:|:---:|
 | 0       | SQL     | 3            | $86,838.00           |
@@ -189,6 +190,7 @@ ORDER BY
 | 186     | SAS     | 1            | $53,014.00           |
 | 5       | R       | 1            | $53,014.00           |
 | 199     | SPSS    | 1            | $53,014.00           |
+
 *Table of the most optimal skills for data analyst
 
 The table above highlights the demand and average salaries (in USD) for various skills among data analysts in Serbia in 2023. The demand count represents the number of job postings requiring each skill, while the average salary indicates the typical annual compensation associated with that skill.
