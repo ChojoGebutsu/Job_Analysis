@@ -115,7 +115,7 @@ LIMIT 5;
 ```
 
 - Here is the bar chart showing the demand count for top 5 skills among data analysts in Serbia, regardless of the salary. **SQL** has the highest demand, followed by **Python**, **Tableau**, **Excel**, and **Power BI**. This gives a clear view of which skills are most sought after in the data analytics field.
-![Slika_2](assets\output_2.png)
+![Slika_2](assets/output_2.png)
 *Bar graph of visualizing the demand for the top 5 skills in data analyst job postings
 
 
@@ -174,8 +174,8 @@ ORDER BY
     demand_count DESC,
     avg_salary DESC;
 ```
-| Skill ID| Skills  | Demand Count | Average Salary (USD) |
-|---------|---------|--------------|----------------------|
+| Skill ID | Skills  | Demand Count | Average Salary (USD) |
+|:---:|---|:---:|:---:|
 | 0       | SQL     | 3            | $86,838.00           |
 | 183     | Power BI| 2            | $103,750.00          |
 | 14      | C#      | 2            | $79,007.00           |
