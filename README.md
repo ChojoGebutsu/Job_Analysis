@@ -174,21 +174,21 @@ ORDER BY
     demand_count DESC,
     avg_salary DESC;
 ```
-| Skill ID | Skills  | Demand Count | Average Salary (USD) |
-|----------|---------|--------------|----------------------|
-| 0        | SQL     | 3            | $86,838.00           |
-| 183      | Power BI| 2            | $103,750.00          |
-| 14       | C#      | 2            | $79,007.00           |
-| 1        | Python  | 2            | $79,007.00           |
-| 181      | Excel   | 2            | $77,757.00           |
-| 194      | SSIS    | 1            | $105,000.00          |
-| 8        | Go      | 1            | $102,500.00          |
-| 79       | Oracle  | 1            | $56,700.00           |
-| 182      | Tableau | 1            | $53,014.00           |
-| 7        | SAS     | 1            | $53,014.00           |
-| 186      | SAS     | 1            | $53,014.00           |
-| 5        | R       | 1            | $53,014.00           |
-| 199      | SPSS    | 1            | $53,014.00           |
+| Skill ID| Skills  | Demand Count | Average Salary (USD) |
+|---------|---------|--------------|----------------------|
+| 0       | SQL     | 3            | $86,838.00           |
+| 183     | Power BI| 2            | $103,750.00          |
+| 14      | C#      | 2            | $79,007.00           |
+| 1       | Python  | 2            | $79,007.00           |
+| 181     | Excel   | 2            | $77,757.00           |
+| 194     | SSIS    | 1            | $105,000.00          |
+| 8       | Go      | 1            | $102,500.00          |
+| 79      | Oracle  | 1            | $56,700.00           |
+| 182     | Tableau | 1            | $53,014.00           |
+| 7       | SAS     | 1            | $53,014.00           |
+| 186     | SAS     | 1            | $53,014.00           |
+| 5       | R       | 1            | $53,014.00           |
+| 199     | SPSS    | 1            | $53,014.00           |
 *Table of the most optimal skills for data analyst
 
 The table above highlights the demand and average salaries (in USD) for various skills among data analysts in Serbia in 2023. The demand count represents the number of job postings requiring each skill, while the average salary indicates the typical annual compensation associated with that skill.
