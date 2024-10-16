@@ -91,7 +91,7 @@ Here are the top five skills found in the dataset, based on frequency:
 - **Power BI** appears 2 times.
 - **Excel** appears 2 times.
 
-![Slika_1](assets\output.png)
+![Slika_1](assets/output.png)
 *Bar graph visualizing the count of skills for the top paying jobs for data analysts in Serbia
 
 ### 3. In-Demand Skills for Data Analysts
@@ -148,7 +148,7 @@ Here are the main insights:
 
 
 
-![Slika_3](assets\output_4.png)
+![Slika_3](assets/output_4.png)
 *Bar graph of visualizing the average salary for the top paying skills for data analysts in Serbia
 
 
