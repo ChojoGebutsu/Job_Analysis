@@ -210,6 +210,6 @@ Throughout this adventure, I've enriched my SQL toolkit with some serious firepo
 # Closing Thoughts
 This project enhanced my SQL skills and provided insights into the data analyst job market in Serbia. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
 
-## 🛡️ License
+# 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
